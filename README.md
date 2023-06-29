@@ -17,5 +17,6 @@ finally, scoring 11.75/12 in the Kaggle competition in Project 1:
 * `transformer-comp90051.ipynb`: This notebook utilises the Transformer to detect the LLM-generated text.
 
 # Exploratory data analysis
-
+The project training dataset consists of human-written and machine-generated instances across two domains, each marked by significant imbalance. Each instance in the JSON files includes a preprocessed prompt and text, and initial exploratory data analysis has revealed distinct differences in prompt/text lengths and their standard deviations between human and machine sources. The detail of EDA you could visit the file `exploratory_data_analysis.ipynb`
+# LGBM Classifier
 
