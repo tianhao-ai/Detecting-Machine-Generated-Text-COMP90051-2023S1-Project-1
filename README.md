@@ -7,6 +7,7 @@ According to the result from the private board, LGBM could achieve 76% overall a
 also ranked 7th in the private leaderboard, which is top 10%:
 ![private and public result](graph/kaggle_rank.png)
 finally, scoring 11.75/12 in the Kaggle competition in Project 1:
+
 ![private and public result](graph/score.png)
 
 # File Description
