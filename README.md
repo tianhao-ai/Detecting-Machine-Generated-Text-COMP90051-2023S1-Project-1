@@ -39,6 +39,7 @@ Then we would delve deeper into the model part, we start from LGBM.
 
 # LGBM Classifier
 The overall pipeline to train the LGBM could be summarised by the below flowchart:
-<img src='graph/lgb_pipeline.png' width='25'>
+
+<img src='graph/lgb_pipeline.png' width='100'>
 
 
