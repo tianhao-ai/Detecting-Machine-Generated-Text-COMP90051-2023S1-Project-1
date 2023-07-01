@@ -38,4 +38,7 @@ Transformer | 81% |
 Then we would delve deeper into the model part, we start from LGBM.
 
 # LGBM Classifier
+The overall pipeline to train the LGBM could be summarised by below flowchart:
+![lgb_pipeline](graph/lgb_pipeline.png)
+
 
