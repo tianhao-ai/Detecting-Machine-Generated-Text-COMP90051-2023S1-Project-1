@@ -18,10 +18,11 @@ finally, scoring 11.75/12 in the Kaggle competition in Project 1:
 
 # Exploratory data analysis
 At the beginning here is the most important found in the data:
-Attempt | Machine Instances | Human Instances |
+    | Machine Instances | Human Instances |
 --- | --- | --- |
 domain 1 | 3,500 | 122,000 | 
 domain 2 | 400 | 100 | 
+
 The project training dataset consists of human-written and machine-generated instances across two domains, each marked by significant imbalance. Each instance in the JSON files includes a preprocessed prompt and text, and initial exploratory data analysis has revealed distinct differences in prompt/text lengths and their standard deviations between human and machine sources. For the detail of EDA you could visit the file `exploratory_data_analysis.ipynb`
 # LGBM Classifier
 
