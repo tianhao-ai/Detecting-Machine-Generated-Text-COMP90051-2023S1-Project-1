@@ -18,7 +18,7 @@ finally, scoring 11.75/12 in the Kaggle competition in Project 1:
 
 # Exploratory data analysis
 At the beginning here is the most important found in the data:
-    | Machine Instances | Human Instances |
+Domain   | Machine Instances | Human Instances |
 --- | --- | --- |
 domain 1 | 3,500 | 122,000 | 
 domain 2 | 400 | 100 | 
