@@ -33,6 +33,8 @@ LGBM | 76% |
 GRU | 72% |
 Transformer | 81% |
 
+(Note: The result of GRU and Transformer are submitted after the competition is ended, which is aims to find a better way to finish this project)
+
 Then we would delve deeper into the model part, we start from LGBM.
 
 # LGBM Classifier
