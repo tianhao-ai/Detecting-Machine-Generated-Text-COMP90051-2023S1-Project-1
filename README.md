@@ -17,7 +17,7 @@ finally, scoring 11.75/12 in the Kaggle competition in Project 1:
 * `transformer-comp90051.ipynb`: This notebook utilises the Transformer to detect the LLM-generated text.
 
 # Exploratory data analysis
-At the beginning here is the most important found in the data:
+Here is the most important found in the data:
 Domain   | Machine Instances | Human Instances |
 --- | --- | --- |
 domain 1 | 3,500 | 122,000 | 
