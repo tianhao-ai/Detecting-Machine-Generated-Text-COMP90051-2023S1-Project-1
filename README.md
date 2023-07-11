@@ -30,7 +30,7 @@ This project uses LightGBM(LGBM), Gated recurrent units (GRUs), and Transformer 
 Model   | Private Result |
 --- | --- |
 LGBM | 76% |
-GRU | 72% |
+GRU | 73% |
 Transformer | 81% |
 
 (Note: The result of GRU and Transformer are submitted after the competition is ended, which is aims to find a better way to finish this project)
