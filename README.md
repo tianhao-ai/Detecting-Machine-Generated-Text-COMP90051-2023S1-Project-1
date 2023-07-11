@@ -38,4 +38,12 @@ Transformer | 81% |
 Then we would delve deeper into the model part, we start from LGBM.
 
 # LGBM Classifier
+The overall pipeline to train the LGBM could be summarised by the below flowchart:
+
+<img src='graph/lgb_pipeline.png' width='500'>
+
+It is worth noting that we use the **goss** as our boosting type when pre-training the model, then we change our boosting type to **Dart** when we fine-tuned our model, and the detail usage of another parameter could be referred to the file `lgb-comp90051.ipynb`.
+
+# GRU
+
 
