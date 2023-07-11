@@ -47,4 +47,5 @@ It is worth noting that we use the **goss** as our boosting type when pre-traini
 # Attentional Bidirectional Gru Classifier
 The overall structure of the GRU are shown below:
 <img src='graph/gru_structure.png' width='1000' height ='50'>
+Due to the device limit, the max length of the text input is limit in size 500. Some parameter could be tuned for gaining better performance
 
