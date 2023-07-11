@@ -44,6 +44,7 @@ The overall pipeline to train the LGBM could be summarised by the below flowchar
 
 It is worth noting that we use the **goss** as our boosting type when pre-training the model, then we change our boosting type to **Dart** when we fine-tuned our model, and the detail usage of parameter could be found at the file `lgb-comp90051.ipynb`.
 
-# GRU
+# Attentional Bidirectional Gru Classifier
+The overall structure of the GRU are shown below:
 <img src='graph/gru_structure.png' width='1000' height ='50'>
 
