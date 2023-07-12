@@ -14,7 +14,6 @@ finally, scoring 11.75/12 in the Kaggle competition in Project 1:
 * `exploratory_data_analysis.ipynb`: This notebook mainly focuses on data analysis, expecting to find insight into the data.
 * `lgb-comp90051.ipynb`: This notebook utilises the **LGBM classifier** to detect the LLM-generated text.
 * `gru-comp90051.ipynb`: This notebook utilises the **GRU** to detect the LLM-generated text.
-* `transformer-comp90051.ipynb`: This notebook utilises the **Transformer** to detect the LLM-generated text.
 
 # Exploratory data analysis
 Here is the most important found in the data:
@@ -33,9 +32,8 @@ Model   | Private Result |
 --- | --- |
 LGBM | 76% |
 GRU | 73% |
-Transformer | 81% |
 
-(Note: The result of GRU and Transformer are submitted after the competition is ended, which is aims to find a better way to finish this project)
+(Note: The result of GRU are submitted after the competition is ended, which is aims to find a better way to finish this project)
 
 Then we would delve deeper into the model part, we start from LGBM.
 
@@ -51,3 +49,6 @@ The overall structure of the GRU are shown below:
 <img src='graph/gru_structure.png' width='1000' height ='50'>
 Due to the device limit, the max length of the text input is limit in size 500. Some parameter could be tuned for gaining better performance
 
+# Acknowledgement
+
+This program was created as a project for COMP90051 Statistical Machine Learning at University of Melbourne. Special thanks to Prof.Ben Rubinstein and teaching teams for their guidance and support.
